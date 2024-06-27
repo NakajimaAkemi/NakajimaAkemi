@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, AI and IoT applications
 - 🌱 I’m currently learning Clound and Fog based microservices
 - 💞️ I’m looking to collaborate with other people that share similar interests and the same desire for personal growth
-- 📫 How to reach me [On Telegram]([t.me/billi_ballo](https://t.me/billi_ballo))
+- 📫 How to reach me: https://t.me/billi_ballo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm addicted to Parmiggiano Reggiano
 
