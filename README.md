@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bilel Arfaoui
 - 👀 I’m interested in Data Science, AI and IoT applications
-- 🌱 I’m currently learning Clound and Fog paradigms 
+- 🌱 I’m currently learning Cloud paradigm and VDBMSs 
 - 💞️ I’m looking to collaborate with other people that share similar interests and the same desire for personal growth
 - 📫 How to reach me: https://t.me/billi_ballo
 - 😄 Pronouns: He/Him
