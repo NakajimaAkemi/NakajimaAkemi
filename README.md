@@ -10,3 +10,5 @@
 NakajimaAkemi/NakajimaAkemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="[img_girl.jpg](https://i.redd.it/6u5ellqamjo91.gif)" alt="Girl in a jacket" width="500" height="600">
