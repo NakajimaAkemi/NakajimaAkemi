@@ -11,8 +11,10 @@ NakajimaAkemi/NakajimaAkemi is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://github.com/NakajimaAkemi/NakajimaAkemi/blob/main/RDT_20241123_085441.mp4 
-)
+
+
+https://github.com/user-attachments/assets/8746dc6a-2336-4ff0-8e43-823deadc5c96
+
 
 
 <div style="display: flex; justify-content: center;">
