@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://i.redd.it/6u5ellqamjo91.gif" alt="Girl in a jacket" style="width: 200px; height: auto; margin: 0 10px;">
-
 
 <video width="640" height="360" controls>
     <source src="RDT_20241123_085441.mp4" type="video/mp4">
