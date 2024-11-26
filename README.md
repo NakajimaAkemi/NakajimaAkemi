@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bilel Arfaoui
+uni- 👋 Hi, I’m Bilel Arfaoui
 - 👀 I’m interested in Data Science, AI and IoT applications
 - 🌱 I’m currently learning Cloud paradigm and VDBMSs 
 - 💞️ I’m looking to collaborate with other people that share similar interests and the same desire for personal growth
@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://i.redd.it/6u5ellqamjo91.gif" alt="Girl in a jacket" style="width: 200px; height: auto; margin: 0 10px;">
 </div>
 
-<div>
 <video width="640" height="360" controls>
     <source src="RDT_20241123_085441.mp4" type="video/mp4">
+    Il tuo browser non supporta il video. Scarica il file <a href="RDT_20241123_085441.mp4">qui</a>.
 </video>
-</div>
