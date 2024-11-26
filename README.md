@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-https://github.com/user-attachments/assets/8746dc6a-2336-4ff0-8e43-823deadc5c96
 
 
 
