@@ -11,7 +11,8 @@ NakajimaAkemi/NakajimaAkemi is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://github.com/NakajimaAkemi/NakajimaAkemi/blob/main/RDT_20241123_085441.mp4 
+)
 
 
 <div style="display: flex; justify-content: center;">
@@ -20,4 +21,3 @@ You can click the Preview link to take a look at your changes.
     
 </div>
 
-https://github.com/NakajimaAkemi/NakajimaAkemi/blob/main/RDT_20241123_085441.mp4 
