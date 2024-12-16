@@ -26,6 +26,6 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display: flex; justify-content: center;">
 
-<img src="https://media1.tenor.com/m/Sfa6-nGw06QAAAAd/pokemon.gif" alt="Girl in a jacket" style="width: 200px; height: auto; margin: 0 10px;">
+<img src="https://i.pinimg.com/originals/65/90/f6/6590f6e00ca8ae7957c2542099303153.gif" alt="Girl in a jacket" style="width: 200px; height: auto; margin: 0 10px;">
     
 </div>
