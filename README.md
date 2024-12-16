@@ -12,9 +12,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;" href="https://it.pinterest.com/pin/665758757440119111/">
 
-<img src="![image](https://github.com/user-attachments/assets/bb2d8d04-8d48-4523-ab0e-f4f97aa0544e)
-" alt="Girl in a jacket" style="margin: 0 10px;">
+<img src="https://i.pinimg.com/originals/47/53/d7/4753d776ae8b2e1bd3ba05289ad27f8b.gif" alt="Girl in a jacket" style="margin: 0 10px;">
     
 </div>
