@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display: flex; justify-content: center;">
 
-<img src="https://i.pinimg.com/originals/65/90/f6/6590f6e00ca8ae7957c2542099303153.gif" alt="Girl in a jacket" style="margin: 0 10px;">
+<img src="![image](https://github.com/user-attachments/assets/bb2d8d04-8d48-4523-ab0e-f4f97aa0544e)
+" alt="Girl in a jacket" style="margin: 0 10px;">
     
 </div>
